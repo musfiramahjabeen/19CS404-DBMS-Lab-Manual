@@ -3,7 +3,7 @@
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
-## THEORY
+## THEORY 
 
 ### 1. INSERT INTO
 Used to add records into a relation.
